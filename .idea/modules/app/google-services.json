@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461591642579",
+    "firebase_url": "https://covid19trackerandcaselocator.firebaseio.com",
+    "project_id": "covid19trackerandcaselocator",
+    "storage_bucket": "covid19trackerandcaselocator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461591642579:android:ee2dcdb4ef6864d450af26",
+        "android_client_info": {
+          "package_name": "com.example.covid19trackerandcaselocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461591642579-iqfpt6hqqqk3elmgvv91l7sgs9b4ee8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covid19trackerandcaselocator",
+            "certificate_hash": "e9c949dac7b275dded67046f1b421c243bd28ad1"
+          }
+        },
+        {
+          "client_id": "461591642579-l69uu07nso955ua3mcd297ca50fjigdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPyxh7W7kx3H11O4YIxOfoEVCUL7NmI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461591642579-l69uu07nso955ua3mcd297ca50fjigdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
